@@ -6,10 +6,7 @@ on:
       - master
   schedule:
     - cron: '0 * * * *'
-
-env:
-  RSS_FEEDS: https://victoria.dev/blog/index.xml
-
+      
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
