@@ -7,7 +7,7 @@ In my past I have done some work as PFY and some traveling planning.
 
 ![Fundor333's Github Stats](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true)
 - I love [🍵](https://digitaltearoom.com/pages/about/) and I make a lot of it
-- 📰 Read my latest blog post: **[Create a custon Git message with GitConfig](https://fundor333.com/post/2020/gitmessage-advance-config/)**
+- 📰 Read my latest blog post: **[SSL Check With a Script](https://fundor333.com/post/2020/ssl-check-with-a-script/)**
 
 Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 20 Aug 2020.
 
