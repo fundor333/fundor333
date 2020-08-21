@@ -9,6 +9,6 @@ In my past I have done some work as PFY and some traveling planning.
 - I love [🍵](https://digitaltearoom.com/post/2020/ice-tea-without-heat/) and I make a lot of it
 - 📰 Read my latest blog post: **[SSL Check With a Script](https://fundor333.com/post/2020/ssl-check-with-a-script/)**
 
-Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 20 Aug 2020.
+Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 21 Aug 2020.
 
 *Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*
