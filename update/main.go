@@ -63,13 +63,13 @@ func makeReadme(filename string) error {
 	str, _ = elaborate("https://digitaltearoom.com/index.xml")
 	blog2 := "- I love [🍵](https://digitaltearoom.com/) and I make a lot of it"
 	if str[1] != "" {
-		blog2 = "- I love [🍵](" + str[1] + ") and I make a lot of it"
+		blog2 = "- I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[" + str[0] + "](" + str[1] + ")**"
 	}
 
 	// Whisk together static and dynamic content until stiff peaks form
 	updated := "Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on " + date + "."
 	thanks := "*Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*"
-	data := fmt.Sprintf("\n%s%s\n%s\n\n%s\n\n%s\n", stringyContent, blog2, blog, updated, thanks)
+	data := fmt.Sprintf("\n%s%s\n%s\n\n%s\n\n%s\n", stringyContent, blog, blog2, updated, thanks)
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)
