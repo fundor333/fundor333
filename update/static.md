@@ -4,4 +4,7 @@ I am a Backend Developer 💻, a Pythonista 🐍, a Docker user 🐋 and a Open 
 
 In my past I have done some work as PFY and some traveling planning.
 
-![Fundor333's Github Stats](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true&theme=nord&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&layout=compact&theme=nord&count_private=true)
