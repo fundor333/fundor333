@@ -9,7 +9,7 @@ In my past I have done some work as PFY and some traveling planning.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
-- 📰 Read my latest blog post: **[SSL Check With a Script](https://fundor333.com/post/2020/ssl-check-with-a-script/)**
+- 📰 Read my latest blog post: **[Backup Your Crontab](https://fundor333.com/post/2020/backup-your-crontab/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Experiment With Peach Tea](https://digitaltearoom.com/post/2020/experiment-with-peach-tea/)**
 
 Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 30 Aug 2020.
