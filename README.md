@@ -12,6 +12,6 @@ In my past I have done some work as PFY and some traveling planning.
 - 📰 Read my latest blog post: **[Color Your Python Output](https://fundor333.com/post/2020/color-your-python-output/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Experiment With Peach Tea](https://digitaltearoom.com/post/2020/experiment-with-peach-tea/)**
 
-Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 29 Sep 2020.
+Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 30 Sep 2020.
 
 *Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*
