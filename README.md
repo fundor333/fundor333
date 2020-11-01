@@ -12,6 +12,6 @@ In my past I have done some work as PFY and some traveling planning.
 - 📰 Read my latest blog post: **[Manage Site and Certificate](https://fundor333.com/post/2020/manage-site-and-certificate/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
-Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 31 Oct 2020.
+Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 1 Nov 2020.
 
 *Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*
