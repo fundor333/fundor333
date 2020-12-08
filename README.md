@@ -11,6 +11,6 @@ In my past I have done some work as PFY and some traveling planning.
 - 📰 Read my latest blog post: **[Adding Progress Bar in Python](https://fundor333.com/post/2020/adding-progress-bar-in-python/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
-Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 7 Dec 2020.
+Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 8 Dec 2020.
 
 *Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*
