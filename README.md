@@ -10,7 +10,7 @@ In my past I have done some work as PFY and some traveling planning.
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true&theme=nord&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
-- 📰 Read my latest blog post: **[Adding Progress Bar in Python](https://fundor333.com/post/2020/adding-progress-bar-in-python/)**
+- 📰 Read my latest blog post: **[The Team Makefile](https://fundor333.com/post/2021/the-team-makefile/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
 Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 15 Jan 2021.
