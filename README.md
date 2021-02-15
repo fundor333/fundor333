@@ -24,7 +24,9 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true)
+![Trophy Sicret](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=onedark&no-bg=true&column=3&rank=SECRET,SSS)
+
+![Trophy Sicret](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=onedark&no-bg=true&column=3&rank=SS,S,AAA,AA,A,B,C)
 - 📰 Read my latest blog post: **[The Team Makefile](https://fundor333.com/post/2021/the-team-makefile/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
