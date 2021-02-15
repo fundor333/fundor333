@@ -18,12 +18,13 @@ DevOps                   | ![Docker Badge](https://img.shields.io/badge/-Docker-
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=flat-square&logo=Apple&logoColor=white&color=000)
 
 
-
 ![CodeWars](https://www.codewars.com/users/fundor333/badges/large)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true&theme=nord&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true)
 - 📰 Read my latest blog post: **[The Team Makefile](https://fundor333.com/post/2021/the-team-makefile/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
