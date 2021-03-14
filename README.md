@@ -30,6 +30,6 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 - 📰 Read my latest blog post: **[Advance Git Config and Ssh Config](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/)**
 - I love [🍵](https://digitaltearoom.com/) and I make a lot of it with some post like **[Pumkin Stuff for October](https://digitaltearoom.com/post/2020/pumking-stuff-for-october/)**
 
-Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 13 Mar 2021.
+Last updated by [🪄magic🪄](https://victoria.dev/blog/go-automate-your-github-profile-readme/) on 14 Mar 2021.
 
 *Thanks to [Victoria Drake 🧙‍♀️](https://victoria.dev/blog/go-automate-your-github-profile-readme/) for give us this magic*
