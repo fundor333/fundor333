@@ -27,6 +27,8 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fundor333&show_icons=true&theme=nord&count_private=true)
 
+[![Fundor333's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fundor333&theme=nord&count_private=true)](https://github.com/fundor333/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true)
