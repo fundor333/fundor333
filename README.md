@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advance Git Config and Ssh Config](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/)
+- [The Team Makefile](https://fundor333.com/post/2021/the-team-makefile/)
+- [Adding Progress Bar in Python](https://fundor333.com/post/2020/adding-progress-bar-in-python/)
+- [Keep update Gitlab](https://fundor333.com/post/2020/keep_update_gitlab/)
 <!-- BLOG-POST-LIST:END -->
 
 
