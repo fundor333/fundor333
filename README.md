@@ -56,4 +56,4 @@ After this I was ready to tacle the elephant in the room: how to check if my sel
  [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2020/keep_update_gitlab/) 
 <!-- BLOG-POST-LIST:END -->
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
