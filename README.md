@@ -31,7 +31,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fundor333&theme=nord&count_private=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true)
+## ![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true)
 
 
 ### Blogs posts
