@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://fundor333.com/index.xml"
-          template: "$newline $emojiKey(🧋,🍵,🫖) [**$title**]($url): $description $newline"
+          template: "$newline $emojiKey(🧋,🍵,🫖) [**$title**]($url): $description $newline [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)]($url) $newline"
