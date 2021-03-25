@@ -13,15 +13,19 @@
 <!-- BLOG-POST-LIST:START -->
  🧋 [**Advance Git Config and Ssh Config**](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/): <img src="https://fundor333.com/post/2021/advance-git-config-and-ssh-config/Advance-git-config-and-ssh-config.jpg"/>Many and many times I update my dotfiles1 and rewrite part of them for keep my work config and personal config in a same repo with all the config split for usage.
 So I discover that I can have multiple ssh config and gitconfig on the same machine.
-Multiple SSH config files The SSH&rsquo;s config file was too long to manage so one day I need to break it for make it easy for managing.
+Multiple SSH config files The SSH&rsquo;s config file was too long to manage so one day I need to break it for make it easy for managing. 
+
  🍵 [**The Team Makefile**](https://fundor333.com/post/2021/the-team-makefile/): <img src="https://fundor333.com/post/2021/the-team-makefile/The-team-makefile.jpg"/>Working on a project with a team is a difficult task. If the project is not simple, you need to build it, test it and publish it and you can have multiple project with similar command but different parameters or path for build/test/stuff-making. Other times you can have a team of developer and the build/test/stuff-making will be done by THE sysadmin1.
-From personal expirience if you don&rsquo;t have a method for the build/deploy/test for the project at the first update will came Murphy and make you an unhappy soul or have some colligue with a battle axe asking for a little talk about the build/deploy/test.
+From personal expirience if you don&rsquo;t have a method for the build/deploy/test for the project at the first update will came Murphy and make you an unhappy soul or have some colligue with a battle axe asking for a little talk about the build/deploy/test. 
+
  🫖 [**$title**]($url) [**Adding Progress Bar in Python**](https://fundor333.com/post/2020/adding-progress-bar-in-python/): <img src="https://fundor333.com/post/2020/adding-progress-bar-in-python/Adding_Progress_Bar_in_Python.jpg"/>Sometime you need to make a script or a program with some task and show to the user you are doing something so you need to write something as output: a Progress Bar.
 You have multiple way to do it and now I will show some way to do it with packages.
 Progress The first package I present is progress, an easy python package with a lot of configuration.
-This package is base of one object, the Bar, and you set it, you use it for update the progressbass or end it.
+This package is base of one object, the Bar, and you set it, you use it for update the progressbass or end it. 
+
  🧋 [**Keep update Gitlab**](https://fundor333.com/post/2020/keep_update_gitlab/): <img src="https://fundor333.com/post/2020/keep_update_gitlab/Keep_update_Gitlab.jpg"/>Some time ago I had a problem with a selfhosted Gitlab instances. I had a new user, johnyj12345, which create a repo and an issiue and log off. This is an attack made to my instance because I don&rsquo;t upgraded it for some time so I cleanit and remove all the trace of this user and update all.1
-After this I was ready to tacle the elephant in the room: how to check if my self hosted GitLab.<!-- BLOG-POST-LIST:END -->
+After this I was ready to tacle the elephant in the room: how to check if my self hosted GitLab. 
+<!-- BLOG-POST-LIST:END -->
 
 
 key                      |value
