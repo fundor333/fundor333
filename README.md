@@ -11,6 +11,7 @@
 )
 [![RSS](https://img.shields.io/badge/RSS-read-FFA500?logo=rss&style=for-the-badge)](https:fundor333.com/index.xml)
 [![Twitter](https://img.shields.io/badge/Twitter-follow-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/fundor333)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffundor333%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ### Coding Knowledge
