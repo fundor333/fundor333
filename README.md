@@ -41,16 +41,18 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- 🧋 [**Advance Git Config and Ssh Config**](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/): <img src="https://fundor333.com/post/2021/advance-git-config-and-ssh-config/Advance-git-config-and-ssh-config.jpg"/>Many and many times I update my dotfiles1 and rewrite part of them for keep my work config and personal config in a same repo with all the config split for usage.
+ 🧋 [**Letterhead With ReportLab**](https://fundor333.com/post/2021/letterhead-with-reportlab/): <img src="https://fundor333.com/post/2021/letterhead-with-reportlab/Letterhead-with-ReportLab.jpg"/>Sometime you need to make some pdf looking more professional. In python you use the ReportLab1 package for make Pdf.
+Fist the main core For every document type I need I write a class with a get_pdf for print2 a Pdf.
+Here an example3
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35  class BasicPrinter: def __init__(self, buffer, pagesize=&#34;A4&#34;): self. 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/letterhead-with-reportlab/) 
+
+ 🍵 [**Advance Git Config and Ssh Config**](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/): <img src="https://fundor333.com/post/2021/advance-git-config-and-ssh-config/Advance-git-config-and-ssh-config.jpg"/>Many and many times I update my dotfiles1 and rewrite part of them for keep my work config and personal config in a same repo with all the config split for usage.
 So I discover that I can have multiple ssh config and gitconfig on the same machine.
 Multiple SSH config files The SSH&rsquo;s config file was too long to manage so one day I need to break it for make it easy for managing. 
  
  [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/) 
-
- 🍵 [**The Team Makefile**](https://fundor333.com/post/2021/the-team-makefile/): <img src="https://fundor333.com/post/2021/the-team-makefile/The-team-makefile.jpg"/>Working on a project with a team is a difficult task. If the project is not simple, you need to build it, test it and publish it and you can have multiple project with similar command but different parameters or path for build/test/stuff-making. Other times you can have a team of developer and the build/test/stuff-making will be done by THE sysadmin1.
-From personal expirience if you don&rsquo;t have a method for the build/deploy/test for the project at the first update will came Murphy and make you an unhappy soul or have some colligue with a battle axe asking for a little talk about the build/deploy/test. 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/the-team-makefile/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
