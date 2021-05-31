@@ -12,19 +12,14 @@
 )
 [![RSS](https://img.shields.io/badge/RSS-read-FFA500?logo=rss&style=for-the-badge)](https:fundor333.com/index.xml)
 [![Twitter](https://img.shields.io/badge/Twitter-follow-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/fundor333)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffundor333%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1371?logoColor=white%26project=%26recentMS=0%26showProject=false)
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{ LANGUAGE_PERCENT }}-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor=white&color={{LANGUAGE_COLOR:uri}}) 
-{{ LANGUAGE_TEMPLATE_END }}
+![Code Time](https://img.shields.io/endpoint?url=https://codetime-api.datreks.com/badge/1371?logoColor=white%26project=%26recentMS=0%26showProject=false&style=for-the-badge)
 
 ### Coding Knowledge
 
 key                      |value
 -------------------------|-------------------------------------------------------------------
 Domain Knowledge         | ![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=for-the-badge&logo=mathworks&logoColor=white&color=f73e3e) ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=for-the-badge&logo=smartthings&logoColor=white&color=7b18a2) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=for-the-badge&logo=webpack&logoColor=000&color=fbc157)
-Programming Languages    | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&color=3776AB) ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=for-the-badge&logo=elastic%20stack&logoColor=white&color=609540) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6) ![Shell Badge](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=4EAA25)
+Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{ LANGUAGE_PERCENT }}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor={{LANGUAGE_COLOR:uri}}&color={{LANGUAGE_COLOR:uri}}) {{ LANGUAGE_TEMPLATE_END }}
 Frameworks               | ![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white&color=092E20) ![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&color=000000)  ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7952B3)
 Scientific Tools         | ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626) ![numpy Badge](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=013243)
 DataBases                | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=336791) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&color=003B57) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248) 
