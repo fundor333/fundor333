@@ -50,4 +50,8 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
  [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/advance-git-config-and-ssh-config/) 
 <!-- BLOG-POST-LIST:END -->
 
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
