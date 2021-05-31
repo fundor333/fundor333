@@ -15,14 +15,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffundor333%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1371?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
-![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=for-the-badge&logo=HTML&logoColor=white&color=%23e34c26) 
-![Python](https://img.shields.io/badge/-Python-%233572A5?style=for-the-badge&logo=Python&logoColor=white&color=%233572A5) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=white&color=%23f1e05a) 
-![CSS](https://img.shields.io/badge/-CSS-%23563d7c?style=for-the-badge&logo=CSS&logoColor=white&color=%23563d7c) 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white&color=%23DA5B0B) 
-![TeX](https://img.shields.io/badge/-TeX-%233D6117?style=for-the-badge&logo=TeX&logoColor=white&color=%233D6117) 
-![Shell](https://img.shields.io/badge/-Shell-%2389e051?style=for-the-badge&logo=Shell&logoColor=white&color=%2389e051) 
-![Other](https://img.shields.io/badge/-Other-%23ededed?style=for-the-badge&logo=Other&logoColor=white&color=%23ededed) 
+![HTML](https://img.shields.io/badge/HTML-38.4-%23e34c26?style=for-the-badge&logo=HTML&logoColor=white&color=%23e34c26) 
+![Python](https://img.shields.io/badge/Python-27.8-%233572A5?style=for-the-badge&logo=Python&logoColor=white&color=%233572A5) 
+![JavaScript](https://img.shields.io/badge/JavaScript-13.4-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=white&color=%23f1e05a) 
+![CSS](https://img.shields.io/badge/CSS-7.3-%23563d7c?style=for-the-badge&logo=CSS&logoColor=white&color=%23563d7c) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.1-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white&color=%23DA5B0B) 
+![TeX](https://img.shields.io/badge/TeX-2-%233D6117?style=for-the-badge&logo=TeX&logoColor=white&color=%233D6117) 
+![Shell](https://img.shields.io/badge/Shell-1.4-%2389e051?style=for-the-badge&logo=Shell&logoColor=white&color=%2389e051) 
+![Other](https://img.shields.io/badge/Other-3.1-%23ededed?style=for-the-badge&logo=Other&logoColor=white&color=%23ededed) 
 
 ### Coding Knowledge
 
