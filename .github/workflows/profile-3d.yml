@@ -1,10 +1,11 @@
 name: GitHub-Profile-3D-Contrib
-
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   build:
     runs-on: ubuntu-latest
