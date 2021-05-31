@@ -39,7 +39,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=fundor333&no-frame=true&theme=darkhub&no-bg=true) -->
 
-### Books I'm currently reading
+### Books suggestions
 <!-- GOODREADS-LIST:START -->
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3986076614?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.24)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/3979104930?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.33)
