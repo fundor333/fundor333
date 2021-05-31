@@ -16,7 +16,7 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1371?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 {{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+![{{LANGUAGE_NAME}}](https://img.shields.io/badge/-{{LANGUAGE_NAME:uri}}-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor=white&color={{LANGUAGE_COLOR:uri}}) 
 {{ LANGUAGE_TEMPLATE_END }}
 
 ### Coding Knowledge
