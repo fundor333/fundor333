@@ -20,6 +20,15 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1
         with:
           token: ${{ secrets.TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+          git config user.name github-actions[bot]
+          git config user.email github@fundor333.com
+          git add .
+          git commit -m "Update README"
+          git push
+          fi
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           # Replace this with your goodreads user id
