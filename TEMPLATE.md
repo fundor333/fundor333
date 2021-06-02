@@ -31,6 +31,9 @@ Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](htt
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Books suggestions
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
@@ -38,8 +41,5 @@ Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](htt
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
