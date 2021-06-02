@@ -39,10 +39,3 @@ jobs:
           max_post_count: "2"
           feed_list: "https://fundor333.com/index.xml"
           template: "$newline $emojiKey(🧋,🍵,🫖) [**$title**]($url): $description $newline $newline [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)]($url) $newline"
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
