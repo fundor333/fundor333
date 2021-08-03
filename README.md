@@ -49,6 +49,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-36.1%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Hugo With Lazy Loading and Webp**](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/): <img src="https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/cover.jpg"/> 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/) 
+
+ 🍵 [**Static With a Form in Python**](https://fundor333.com/post/2021/static-with-a-form/): <img src="https://fundor333.com/post/2021/static-with-a-form/cover.jpg"/>If you have a static site you can also have forms 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/static-with-a-form/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
