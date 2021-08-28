@@ -26,7 +26,7 @@ IDE               | ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000?s
 Version Control          | ![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&color=181717) ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=BitBucket&logoColor=white&color=0052CC) ![GitLab Badge](https://img.shields.io/badge/-GitLab-F05032?style=for-the-badge&logo=GitLab&logoColor=white&color=FCA121)
 DevOps                   | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=2088FF) 
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=Apple&logoColor=white&color=000)
-Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-36.9%25-%23e34c26?style=for-the-badge&logo=HTML&logoColor=%23e34c26&color=%23e34c26) ![Python](https://img.shields.io/badge/Python-25.9%25-%233572A5?style=for-the-badge&logo=Python&logoColor=%233572A5&color=%233572A5) ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=%23f1e05a&color=%23f1e05a) ![CSS](https://img.shields.io/badge/CSS-7.8%25-%23563d7c?style=for-the-badge&logo=CSS&logoColor=%23563d7c&color=%23563d7c) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-5.7%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=%23DA5B0B&color=%23DA5B0B) ![SCSS](https://img.shields.io/badge/SCSS-2.9%25-%23c6538c?style=for-the-badge&logo=SCSS&logoColor=%23c6538c&color=%23c6538c) ![TeX](https://img.shields.io/badge/TeX-1.8%25-%233D6117?style=for-the-badge&logo=TeX&logoColor=%233D6117&color=%233D6117) ![Other](https://img.shields.io/badge/Other-3.6%25-%23ededed?style=for-the-badge&logo=Other&logoColor=%23ededed&color=%23ededed) 
+Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-36.8%25-%23e34c26?style=for-the-badge&logo=HTML&logoColor=%23e34c26&color=%23e34c26) ![Python](https://img.shields.io/badge/Python-25.8%25-%233572A5?style=for-the-badge&logo=Python&logoColor=%233572A5&color=%233572A5) ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=%23f1e05a&color=%23f1e05a) ![CSS](https://img.shields.io/badge/CSS-7.8%25-%23563d7c?style=for-the-badge&logo=CSS&logoColor=%23563d7c&color=%23563d7c) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-5.6%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=%23DA5B0B&color=%23DA5B0B) ![SCSS](https://img.shields.io/badge/SCSS-2.9%25-%23c6538c?style=for-the-badge&logo=SCSS&logoColor=%23c6538c&color=%23c6538c) ![TeX](https://img.shields.io/badge/TeX-1.8%25-%233D6117?style=for-the-badge&logo=TeX&logoColor=%233D6117&color=%233D6117) ![Other](https://img.shields.io/badge/Other-3.8%25-%23ededed?style=for-the-badge&logo=Other&logoColor=%23ededed&color=%23ededed) 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
@@ -35,27 +35,10 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-36.9%25-%23
 
 ### Books suggestions
 <!-- GOODREADS-LIST:START -->
-- [Creating GUI Applications with wxPython](https://www.goodreads.com/review/show/3447809051?utm_medium=api&utm_source=rss) by Michael Driscoll (⭐️4.5)
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4134513316?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/4134512811?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.11)
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/3986076614?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
-- [Introduction to Algorithms](https://www.goodreads.com/review/show/3979104930?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.32)
-- [The Temple of Django Database Performance](https://www.goodreads.com/review/show/3904584133?utm_medium=api&utm_source=rss) by Andrew Brookins (⭐️3.5)
-- [Codice libero (Free as in Freedom): Richard Stallman e la crociata per il software libero](https://www.goodreads.com/review/show/3979088374?utm_medium=api&utm_source=rss) by Sam  Williams (⭐️4.25)
-- [Speed Up Your Django Tests](https://www.goodreads.com/review/show/3979084324?utm_medium=api&utm_source=rss) by Adam    Johnson (⭐️4.83)
-- [L'uomo che sapeva troppo: Alan Turing e l'invenzione del computer](https://www.goodreads.com/review/show/3379551629?utm_medium=api&utm_source=rss) by David Leavitt (⭐️3.52)
-- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.goodreads.com/review/show/3379582780?utm_medium=api&utm_source=rss) by Brian Okken (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- 🧋 [**Microsoft and GitHub After Some Time**](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/): <img src="https://fundor333.com/post/2021/microsoft-and-github-after-some-time/cover.jpg"/>Three years later I talk about Microsoft buying Github 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/) 
-
- 🍵 [**Hugo With Lazy Loading and Webp**](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/): <img src="https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/cover.jpg"/>Adding Lazy load, WebP and AVIF to your Hugo 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
