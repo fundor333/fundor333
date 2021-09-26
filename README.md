@@ -49,6 +49,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-37.4%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Microsoft and GitHub After Some Time**](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/): <img src="https://fundor333.com/post/2021/microsoft-and-github-after-some-time/cover.jpg"/>Three years later I talk about Microsoft buying Github 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/) 
+
+ 🍵 [**Hugo With Lazy Loading and Webp**](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/): <img src="https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/cover.jpg"/>Adding Lazy load, WebP and AVIF to your Hugo 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/hugo-with-lazy-loading-and-webp/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
