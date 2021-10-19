@@ -49,6 +49,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-38.3%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**From DevOps to GitOps**](https://fundor333.com/post/2021/from-devops-to-gitops/): <img src="https://fundor333.com/post/2021/from-devops-to-gitops/cover.avif"/>Why am I moving from DevOps to GitOps 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/from-devops-to-gitops/) 
+
+ 🍵 [**Microsoft and GitHub After Some Time**](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/): <img src="https://fundor333.com/post/2021/microsoft-and-github-after-some-time/cover.avif"/>Three years later I talk about Microsoft buying Github 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/microsoft-and-github-after-some-time/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
