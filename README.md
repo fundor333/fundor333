@@ -35,6 +35,16 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-37.9%25-%23
 
 ### Books suggestions
 <!-- GOODREADS-LIST:START -->
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4134513316?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/4134512811?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.11)
+- [Introduction to Algorithms](https://www.goodreads.com/review/show/3979104930?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.33)
+- [The Temple of Django Database Performance](https://www.goodreads.com/review/show/3904584133?utm_medium=api&utm_source=rss) by Andrew Brookins (⭐️3.5)
+- [Codice libero (Free as in Freedom): Richard Stallman e la crociata per il software libero](https://www.goodreads.com/review/show/3979088374?utm_medium=api&utm_source=rss) by Sam  Williams (⭐️4.25)
+- [Speed Up Your Django Tests](https://www.goodreads.com/review/show/3979084324?utm_medium=api&utm_source=rss) by Adam    Johnson (⭐️4.83)
+- [L'uomo che sapeva troppo: Alan Turing e l'invenzione del computer](https://www.goodreads.com/review/show/3379551629?utm_medium=api&utm_source=rss) by David Leavitt (⭐️3.52)
+- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.goodreads.com/review/show/3379582780?utm_medium=api&utm_source=rss) by Brian Okken (⭐️4.21)
+- [Introduction to Graph Theory](https://www.goodreads.com/review/show/3385145021?utm_medium=api&utm_source=rss) by Richard J. Trudeau (⭐️4.09)
+- [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/review/show/3385145297?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.61)
 <!-- GOODREADS-LIST:END -->
 
 ### Blogs posts
