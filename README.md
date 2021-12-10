@@ -49,6 +49,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-39.9%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**WebP and Avif With Hugo-s Static Site Generator**](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/): &lt;img src=&quot;https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/cover.jpg&quot;/&gt;Generate WebP and AVIF with Hugo 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/) 
+
+ 🍵 [**From DevOps to GitOps**](https://fundor333.com/post/2021/from-devops-to-gitops/): &lt;img src=&quot;https://fundor333.com/post/2021/from-devops-to-gitops/cover.jpg&quot;/&gt;Why am I moving from DevOps to GitOps 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/from-devops-to-gitops/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
