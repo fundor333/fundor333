@@ -49,6 +49,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-40.1%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Frozen Mac Touchbar**](https://fundor333.com/post/2021/frozen-mac-touchbar/): Sometime you need to fix your frozen Mac TouchBar 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/frozen-mac-touchbar/) 
+
+ 🍵 [**WebP and Avif With Hugo&#39;s Static Site Generator**](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/): Generate WebP and AVIF with Hugo 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
