@@ -35,27 +35,10 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-41.5%25-%23
 
 ### Books suggestions
 <!-- GOODREADS-LIST:START -->
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4134513316?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/4134512811?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.12)
-- [Introduction to Algorithms](https://www.goodreads.com/review/show/3979104930?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.33)
-- [The Temple of Django Database Performance](https://www.goodreads.com/review/show/3904584133?utm_medium=api&utm_source=rss) by Andrew Brookins (⭐️3.33)
-- [Codice libero (Free as in Freedom): Richard Stallman e la crociata per il software libero](https://www.goodreads.com/review/show/3979088374?utm_medium=api&utm_source=rss) by Sam  Williams (⭐️4.25)
-- [Speed Up Your Django Tests](https://www.goodreads.com/review/show/3979084324?utm_medium=api&utm_source=rss) by Adam    Johnson (⭐️4.89)
-- [L'uomo che sapeva troppo: Alan Turing e l'invenzione del computer](https://www.goodreads.com/review/show/3379551629?utm_medium=api&utm_source=rss) by David Leavitt (⭐️3.52)
-- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.goodreads.com/review/show/3379582780?utm_medium=api&utm_source=rss) by Brian Okken (⭐️4.15)
-- [Introduction to Graph Theory](https://www.goodreads.com/review/show/3385145021?utm_medium=api&utm_source=rss) by Richard J. Trudeau (⭐️4.09)
-- [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/review/show/3385145297?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.61)
 <!-- GOODREADS-LIST:END -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- 🧋 [**Frozen Mac Touchbar**](https://fundor333.com/post/2021/frozen-mac-touchbar/): Sometime you need to fix your frozen Mac TouchBar 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/frozen-mac-touchbar/) 
-
- 🍵 [**WebP and Avif With Hugo&#39;s Static Site Generator**](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/): Generate WebP and AVIF with Hugo 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2021/webp-and-avif-with-hugo-generator/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
