@@ -28,7 +28,6 @@ DevOps                   | ![Docker Badge](https://img.shields.io/badge/-Docker-
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=Apple&logoColor=white&color=000)
 Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{ LANGUAGE_PERCENT }}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor={{LANGUAGE_COLOR:uri}}&color={{LANGUAGE_COLOR:uri}}) {{ LANGUAGE_TEMPLATE_END }}
 
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
