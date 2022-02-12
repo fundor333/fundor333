@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "2"
+          max_post_count: "10"
           feed_list: "https://fundor333.com/index.xml"
           description_max_length: "800"
           template: "$newline $emojiKey(🧋,🍵,🫖) [**$title**]($url): $description $newline $newline [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)]($url) $newline"
