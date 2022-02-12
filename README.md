@@ -48,6 +48,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-33.9%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Playing D&amp;D without Wizards of the Coast - alternatives to 5e - Paths Peculiar**](https://fundor333.com/social/2022/02/12/playing-d-d-without-wizards-of/): &lt;no value&gt; 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/12/playing-d-d-without-wizards-of/) 
+
+ 🍵 [**Socials**](https://fundor333.com/social/): &lt;no value&gt; 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
