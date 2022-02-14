@@ -34,27 +34,10 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-34.3%25-%23
 
 ### Books suggestions
 <!-- GOODREADS-LIST:START -->
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4134513316?utm_medium=api&utm_source=rss) by Andy Hunt (⭐️4.32)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/4134512811?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.12)
-- [Introduction to Algorithms](https://www.goodreads.com/review/show/3979104930?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.33)
-- [The Temple of Django Database Performance](https://www.goodreads.com/review/show/3904584133?utm_medium=api&utm_source=rss) by Andrew Brookins (⭐️3.33)
-- [Codice libero (Free as in Freedom): Richard Stallman e la crociata per il software libero](https://www.goodreads.com/review/show/3979088374?utm_medium=api&utm_source=rss) by Sam  Williams (⭐️4.25)
-- [Speed Up Your Django Tests](https://www.goodreads.com/review/show/3979084324?utm_medium=api&utm_source=rss) by Adam    Johnson (⭐️4.9)
-- [L'uomo che sapeva troppo: Alan Turing e l'invenzione del computer](https://www.goodreads.com/review/show/3379551629?utm_medium=api&utm_source=rss) by David Leavitt (⭐️3.52)
-- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.goodreads.com/review/show/3379582780?utm_medium=api&utm_source=rss) by Brian Okken (⭐️4.19)
-- [Introduction to Graph Theory](https://www.goodreads.com/review/show/3385145021?utm_medium=api&utm_source=rss) by Richard J. Trudeau (⭐️4.1)
-- [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/review/show/3385145297?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.6)
 <!-- GOODREADS-LIST:END -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- 🧋 [**Playing D&amp;D without Wizards of the Coast - alternatives to 5e - Paths Peculiar**](https://fundor333.com/social/2022/02/12/playing-d-d-without-wizards-of/): &lt;no value&gt; 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/12/playing-d-d-without-wizards-of/) 
-
- 🍵 [**How to start using reusable workflows with GitHub Actions | The GitHub Blog**](https://fundor333.com/social/2022/02/11/how-to-start-using-reusable/): &lt;no value&gt; 
- 
- [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/11/how-to-start-using-reusable/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
