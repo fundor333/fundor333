@@ -48,6 +48,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-34.6%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Come diventare tiranni**](https://fundor333.com/social/2022/02/16/come-diventare-tiranni/): &lt;no value&gt; 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/16/come-diventare-tiranni/) 
+
+ 🍵 [**PDFs in Django like it’s 2022! — /var/**](https://fundor333.com/social/2022/02/15/pdfs-in-django-like-it-s/): &lt;no value&gt; 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/15/pdfs-in-django-like-it-s/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
