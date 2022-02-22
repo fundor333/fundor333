@@ -48,6 +48,13 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-34.8%25-%23
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ 🧋 [**Django With Barcode and Qrcode**](https://fundor333.com/post/2022/django-with-barcode-and-qrcode/): How to make a django form for reading BarCode and QRCode 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/post/2022/django-with-barcode-and-qrcode/) 
+
+ 🍵 [**Html5-qrcode: A cross platform HTML5 QR code reader**](https://fundor333.com/social/2022/02/21/html5-qrcode-a-cross-platform-html5/): &lt;no value&gt; 
+ 
+ [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)](https://fundor333.com/social/2022/02/21/html5-qrcode-a-cross-platform-html5/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
