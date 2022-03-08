@@ -25,9 +25,11 @@ IDE               | ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000?s
 Version Control          | ![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&color=181717) ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=BitBucket&logoColor=white&color=0052CC) ![GitLab Badge](https://img.shields.io/badge/-GitLab-F05032?style=for-the-badge&logo=GitLab&logoColor=white&color=FCA121)
 DevOps                   | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=2088FF)
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=Apple&logoColor=white&color=000)
-Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](<https://img.shields.io/badge/{{LANGUAGE_NAME:uri>}}-{{ LANGUAGE_PERCENT }}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor={{LANGUAGE_COLOR:uri}}&color={{LANGUAGE_COLOR:uri}}) {{ LANGUAGE_TEMPLATE_END }}
+Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{ LANGUAGE_PERCENT }}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor={{LANGUAGE_COLOR:uri}}&color={{LANGUAGE_COLOR:uri}}) {{ LANGUAGE_TEMPLATE_END }}
+
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+![](./dist/github-snake.gif)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
