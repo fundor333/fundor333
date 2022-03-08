@@ -20,16 +20,17 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1
         with:
           token: ${{ secrets.TOKEN }}
-      - uses: zwacky/goodreads-profile-workflow@main
-        with:
-          # Replace this with your goodreads user id
-          goodreads_user_id: "5312887"
-          shelf: "developer"
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: fundor333
           gif_out_path: dist/github-snake.gif
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://fundor333.com/index.xml
+          readme-section: feed
+          max: 10 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
@@ -39,4 +40,3 @@ jobs:
           git commit -m "Update README"
           git push
           fi
-
