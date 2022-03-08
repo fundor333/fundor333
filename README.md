@@ -33,6 +33,26 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-43%25-%23e3
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [patrick-kidger&#x2F;mkposters: Make posters from Markdown files.](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;patrick-kidger-mkposters-make-posters-from-markdown&#x2F;) 
+**
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;58044&#x2F;) 
+**
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;49652&#x2F;) 
+**
+#### [fundor333&#x2F;hugo - Docker Image](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;fundor333-hugo-docker-image&#x2F;) 
+**
+#### [Learn Coding With Fun Byte-Sized Comics – Potato Pirates](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;01&#x2F;learn-coding-with-fun-byte-sized&#x2F;) 
+**
+#### [Django Return Pdf With Reportlab](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-return-pdf-with-reportlab&#x2F;) 
+*How to print a pdf with Django and return it from url*
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;02&#x2F;27&#x2F;42835&#x2F;) 
+**
+#### [My Mojo68 Mechanical Keyboards, a design analisys](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;02&#x2F;26&#x2F;my-mojo68-mechanical-keyboards-a&#x2F;) 
+**
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;02&#x2F;24&#x2F;71730&#x2F;) 
+**
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;02&#x2F;23&#x2F;55777&#x2F;) 
+**
 <!--END_SECTION:feed-->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
