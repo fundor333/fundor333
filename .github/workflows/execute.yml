@@ -25,12 +25,6 @@ jobs:
         with:
           github_user_name: fundor333
           gif_out_path: dist/github-snake.gif
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://fundor333.com/index.xml
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
@@ -41,3 +35,9 @@ jobs:
           git commit -m "Update README"
           git push
           fi
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://fundor333.com/index.xml
+          readme-section: feed
+          max: 10 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
