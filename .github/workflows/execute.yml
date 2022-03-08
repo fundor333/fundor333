@@ -34,8 +34,8 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "5312887"
           shelf: "developer"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          max_post_count: "2"
-          feed_list: "https://fundor333.com/index.xml"
-          template: "$newline $emojiKey(🧋,🍵,🫖) [**$title**]($url): $description $newline $newline [![read me](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge)]($url) $newline"
+          github_user_name: fundor333
+          svg_out_path: dist/github-contribution-grid-snake.svg
