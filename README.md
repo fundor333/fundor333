@@ -25,7 +25,7 @@ IDE               | ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000?s
 Version Control          | ![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&color=181717) ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=BitBucket&logoColor=white&color=0052CC) ![GitLab Badge](https://img.shields.io/badge/-GitLab-F05032?style=for-the-badge&logo=GitLab&logoColor=white&color=FCA121)
 DevOps                   | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=2088FF)
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=Apple&logoColor=white&color=000)
-Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-43.3%25-%23e34c26?style=for-the-badge&logo=HTML&logoColor=%23e34c26&color=%23e34c26) ![Python](https://img.shields.io/badge/Python-22.8%25-%233572A5?style=for-the-badge&logo=Python&logoColor=%233572A5&color=%233572A5) ![JavaScript](https://img.shields.io/badge/JavaScript-13.4%25-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=%23f1e05a&color=%23f1e05a) ![CSS](https://img.shields.io/badge/CSS-6.8%25-%23563d7c?style=for-the-badge&logo=CSS&logoColor=%23563d7c&color=%23563d7c) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4.9%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=%23DA5B0B&color=%23DA5B0B) ![SCSS](https://img.shields.io/badge/SCSS-2.5%25-%23c6538c?style=for-the-badge&logo=SCSS&logoColor=%23c6538c&color=%23c6538c) ![Shell](https://img.shields.io/badge/Shell-2.4%25-%2389e051?style=for-the-badge&logo=Shell&logoColor=%2389e051&color=%2389e051) ![Other](https://img.shields.io/badge/Other-3.5%25-%23ededed?style=for-the-badge&logo=Other&logoColor=%23ededed&color=%23ededed) 
+Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-44.1%25-%23e34c26?style=for-the-badge&logo=HTML&logoColor=%23e34c26&color=%23e34c26) ![Python](https://img.shields.io/badge/Python-22.5%25-%233572A5?style=for-the-badge&logo=Python&logoColor=%233572A5&color=%233572A5) ![JavaScript](https://img.shields.io/badge/JavaScript-13.2%25-%23f1e05a?style=for-the-badge&logo=JavaScript&logoColor=%23f1e05a&color=%23f1e05a) ![CSS](https://img.shields.io/badge/CSS-6.7%25-%23563d7c?style=for-the-badge&logo=CSS&logoColor=%23563d7c&color=%23563d7c) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4.8%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=%23DA5B0B&color=%23DA5B0B) ![SCSS](https://img.shields.io/badge/SCSS-2.4%25-%23c6538c?style=for-the-badge&logo=SCSS&logoColor=%23c6538c&color=%23c6538c) ![Shell](https://img.shields.io/badge/Shell-2.3%25-%2389e051?style=for-the-badge&logo=Shell&logoColor=%2389e051&color=%2389e051) ![Other](https://img.shields.io/badge/Other-3.5%25-%23ededed?style=for-the-badge&logo=Other&logoColor=%23ededed&color=%23ededed) 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 ![](./dist/github-snake.gif)
@@ -35,26 +35,6 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-43.3%25-%23
 
 ### Blog Posts
 <!--START_SECTION:feed-->
-#### [Set up a Pi-hole VPN on an AWS Lightsail instance | victoria.dev](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;16&#x2F;set-up-a-pi-hole-vpn&#x2F;) 
-**
-#### [The HTML &lt;meter&gt; element and its (undefined) segment boundaries](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;11&#x2F;the-html-meter-element-and&#x2F;) 
-**
-#### [Barcode Detection API - Web APIs | MDN](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;10&#x2F;barcode-detection-api-web&#x2F;) 
-**
-#### [selfportrait.exe — A Twitter bot by Ashur](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;09&#x2F;selfportrait-exe-a-twitter-bot&#x2F;) 
-**
-#### [patrick-kidger&#x2F;mkposters: Make posters from Markdown files.](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;patrick-kidger-mkposters-make-posters-from-markdown&#x2F;) 
-**
-#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;58044&#x2F;) 
-**
-#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;49652&#x2F;) 
-**
-#### [fundor333&#x2F;hugo - Docker Image](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;fundor333-hugo-docker-image&#x2F;) 
-**
-#### [Learn Coding With Fun Byte-Sized Comics – Potato Pirates](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;01&#x2F;learn-coding-with-fun-byte-sized&#x2F;) 
-**
-#### [Django Return Pdf With Reportlab](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-return-pdf-with-reportlab&#x2F;) 
-*How to print a pdf with Django and return it from url*
 <!--END_SECTION:feed-->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
