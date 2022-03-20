@@ -35,6 +35,16 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-44.3%25-%23
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [JSON Visio](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;20&#x2F;jsonvisio&#x2F;)
+#### [Slidev presentation in MarkDown](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;20&#x2F;slidev-presentation-in-mark-down&#x2F;)
+#### [A.polo su Twitter: &quot;@SwiftOnSecurity Obligatory Buttplug Penetration Testing video https:&#x2F;&#x2F;t.co&#x2F;arErTRnaJq&quot; &#x2F; Twitter](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;19&#x2F;a-polo-su-twitter-swift-on-security-obligatory&#x2F;)
+#### [virae&#x2F;we-stand-with-ukraine - Ukraine flag badge for your website](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;18&#x2F;we-stand-with-ukraine&#x2F;)
+#### [Set up a Pi-hole VPN on an AWS Lightsail instance | victoria.dev](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;16&#x2F;set-up-a-pi-hole-vpn&#x2F;)
+#### [The HTML &lt;meter&gt; element and its (undefined) segment boundaries](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;11&#x2F;the-html-meter-element-and&#x2F;)
+#### [Barcode Detection API - Web APIs | MDN](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;10&#x2F;barcode-detection-api-web&#x2F;)
+#### [selfportrait.exe — A Twitter bot by Ashur](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;09&#x2F;selfportrait-exe-a-twitter-bot&#x2F;)
+#### [patrick-kidger&#x2F;mkposters: Make posters from Markdown files.](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;patrick-kidger-mkposters-make-posters-from-markdown&#x2F;)
+#### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;58044&#x2F;)
 <!--END_SECTION:feed-->
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
