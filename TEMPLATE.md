@@ -28,7 +28,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{ LANGUAGE_PERCENT }}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&logoColor={{LANGUAGE_COLOR:uri}}&color={{LANGUAGE_COLOR:uri}}) {{ LANGUAGE_TEMPLATE_END }}
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-customize.svg)
 ![](./dist/github-snake.svg)
 
 <!--START_SECTION:waka-->
