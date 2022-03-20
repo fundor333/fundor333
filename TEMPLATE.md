@@ -29,7 +29,7 @@ Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](htt
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](./dist/github-snake.gif)
+![](./dist/github-snake.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
