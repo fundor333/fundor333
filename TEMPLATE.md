@@ -38,4 +38,4 @@ Programming Languages    | {{ LANGUAGE_TEMPLATE_START }}![{{LANGUAGE_NAME}}](htt
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21npwp4etyuyc4k76srrop6fy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21npwp4etyuyc4k76srrop6fy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
