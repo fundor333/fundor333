@@ -47,4 +47,4 @@ Programming Languages    | ![HTML](https://img.shields.io/badge/HTML-44.3%25-%23
 #### [](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;08&#x2F;58044&#x2F;)
 <!--END_SECTION:feed-->
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fundor333.com)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21npwp4etyuyc4k76srrop6fy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21npwp4etyuyc4k76srrop6fy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
