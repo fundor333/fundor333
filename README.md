@@ -36,6 +36,16 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-44.7%25-%2
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [Create surveys, quizzes, and more using the Google Forms API, now generally available](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;23&#x2F;google-forms-api-generally-available&#x2F;)
+#### [Improving your GitHub feed | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;23&#x2F;improving-your-git-hub-feed&#x2F;)
+#### [Introducing the GHES repository cache | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;22&#x2F;introducing_the_ghes_repository_cache__the_github_blog&#x2F;)
+#### [Perfect Coffe Landscape](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;21&#x2F;perfect-coffe-landscape&#x2F;)
+#### [JSON Visio](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;20&#x2F;jsonvisio&#x2F;)
+#### [Slidev presentation in MarkDown](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;20&#x2F;slidev-presentation-in-mark-down&#x2F;)
+#### [A.polo su Twitter: &quot;@SwiftOnSecurity Obligatory Buttplug Penetration Testing video https:&#x2F;&#x2F;t.co&#x2F;arErTRnaJq&quot; &#x2F; Twitter](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;19&#x2F;a-polo-su-twitter-swift-on-security-obligatory&#x2F;)
+#### [virae&#x2F;we-stand-with-ukraine - Ukraine flag badge for your website](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;18&#x2F;we-stand-with-ukraine&#x2F;)
+#### [Set up a Pi-hole VPN on an AWS Lightsail instance | victoria.dev](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;16&#x2F;set-up-a-pi-hole-vpn&#x2F;)
+#### [The HTML &lt;meter&gt; element and its (undefined) segment boundaries](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;11&#x2F;the-html-meter-element-and&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
