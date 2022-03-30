@@ -36,6 +36,16 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-45.7%25-%2
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [How to Make Django Raise an Error for Missing Template Variables - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;30&#x2F;how-to-make-django-raise-an-error-for-missing-template-variables---adam-johnson&#x2F;)
+#### [APIs You Won&#39;t Hate | The road to OSS Nirvana](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;29&#x2F;apis-you-wont-hate--the-road-to-oss-nirvana&#x2F;)
+#### [You Probably Don’t Need Django’s get_user_model() - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;29&#x2F;you-probably-dont-need-djangos-getusermodel---adam-johnson&#x2F;)
+#### [These Modern Tea Accessories Will Infuse Your Teatime Ritual With Style](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;24&#x2F;these-modern-tea-accessories-will-infuse-your-teatime-ritual-with-style&#x2F;)
+#### [bottlerocket-os&#x2F;bottlerocket - An operating system designed for hosting containers](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;24&#x2F;bottlerocket-osbottlerocket-an-operating-system-designed-for-hosting-containers&#x2F;)
+#### [How to Win11 in Gnome boxes](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;24&#x2F;how-to-win11-in-gnome-boxes&#x2F;)
+#### [Create surveys, quizzes, and more using the Google Forms API, now generally available](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;23&#x2F;google-forms-api-generally-available&#x2F;)
+#### [Improving your GitHub feed | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;23&#x2F;improving-your-git-hub-feed&#x2F;)
+#### [Introducing the GHES repository cache | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;22&#x2F;introducing_the_ghes_repository_cache__the_github_blog&#x2F;)
+#### [Learn Coding With Fun Byte-Sized Comics – Potato Pirates](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;01&#x2F;learn-coding-with-fun-byte-sized&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
