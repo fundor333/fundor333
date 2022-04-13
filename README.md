@@ -36,6 +36,16 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-46.6%25-%2
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [Come informarsi, bene, sui videogiochi - Go With The Flow](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;10&#x2F;come-informarsi-bene-sui-videogiochi---go-with-the-flow&#x2F;)
+#### [Git Credential Manager -authentication for everyone](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;07&#x2F;git-credential-manager--authentication-for-everyone&#x2F;)
+#### [4 ways we use GitHub Actions to build GitHub | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;05&#x2F;4-ways-we-use-github-actions-to-build-github--the-github-blog&#x2F;)
+#### [A good idea -Introducing &#x60;tiktok-mf2.tanna.dev&#x60;, for converting TikTok video metadata to Microformats2](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;03&#x2F;a-good-idea--introducing-tiktok-mf2tannadev-for-converting-tiktok-video-metadata-to-microformats2&#x2F;)
+#### [How to Be a Teapot in Django - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;01&#x2F;how-to-be-a-teapot-in-django---adam-johnson&#x2F;)
+#### [What to Expect from Python 3.11? - Bas codes](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;30&#x2F;what-to-expect-from-python-311---bas-codes&#x2F;)
+#### [How to Make Django Raise an Error for Missing Template Variables - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;30&#x2F;how-to-make-django-raise-an-error-for-missing-template-variables---adam-johnson&#x2F;)
+#### [APIs You Won&#39;t Hate | The road to OSS Nirvana](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;29&#x2F;apis-you-wont-hate--the-road-to-oss-nirvana&#x2F;)
+#### [You Probably Don’t Need Django’s get_user_model() - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;29&#x2F;you-probably-dont-need-djangos-getusermodel---adam-johnson&#x2F;)
+#### [These Modern Tea Accessories Will Infuse Your Teatime Ritual With Style](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;24&#x2F;these-modern-tea-accessories-will-infuse-your-teatime-ritual-with-style&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
