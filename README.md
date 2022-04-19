@@ -36,16 +36,6 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-48.7%25-%2
 
 ### Blog Posts
 <!--START_SECTION:feed-->
-#### [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;16&#x2F;1650129282&#x2F;)
-#### [elon can have twitter but he can never have my website • Aaron Parecki](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;14&#x2F;1649965701&#x2F;)
-#### [Come informarsi, bene, sui videogiochi - Go With The Flow](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;10&#x2F;come-informarsi-bene-sui-videogiochi---go-with-the-flow&#x2F;)
-#### [Git Credential Manager: authentication for everyone | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;07&#x2F;git-credential-manager--authentication-for-everyone&#x2F;)
-#### [4 ways we use GitHub Actions to build GitHub | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;05&#x2F;4-ways-we-use-github-actions-to-build-github--the-github-blog&#x2F;)
-#### [Introducing &#x60;tiktok-mf2.tanna.dev&#x60;, for converting TikTok video metadata to Microformats2 · Jamie Tanna | Software Engineer](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;03&#x2F;a-good-idea--introducing-tiktok-mf2tannadev-for-converting-tiktok-video-metadata-to-microformats2&#x2F;)
-#### [How to Be a Teapot in Django - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;01&#x2F;how-to-be-a-teapot-in-django---adam-johnson&#x2F;)
-#### [What to Expect from Python 3.11? - Bas codes](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;30&#x2F;what-to-expect-from-python-311---bas-codes&#x2F;)
-#### [How to Make Django Raise an Error for Missing Template Variables - Adam Johnson](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;30&#x2F;how-to-make-django-raise-an-error-for-missing-template-variables---adam-johnson&#x2F;)
-#### [APIs You Won&#39;t Hate | The road to OSS Nirvana](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;03&#x2F;29&#x2F;apis-you-wont-hate--the-road-to-oss-nirvana&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
