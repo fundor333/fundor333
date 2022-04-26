@@ -36,6 +36,16 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-46%25-%23e
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+#### [1650976123](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;26&#x2F;1650976123&#x2F;)
+#### [Django List View With Show More](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-filter-list-view-with-show-more&#x2F;)
+#### [That Dragon Guy su Twitter - &#39;I dun math’d! https - &#x2F;&#x2F;t.co&#x2F;dgPKrCdPEi&#39; &#x2F; Twitter](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;21&#x2F;that-dragon-guy-su-twitter---i-dun-mathd-https---tcodgpkrcdpei--twitter&#x2F;)
+#### [bloomberg&#x2F;memray - Memray is a memory profiler for Python](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;21&#x2F;bloombergmemray---memray-is-a-memory-profiler-for-python&#x2F;)
+#### [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;16&#x2F;1650129282&#x2F;)
+#### [elon can have twitter but he can never have my website • Aaron Parecki](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;14&#x2F;1649965701&#x2F;)
+#### [Come informarsi, bene, sui videogiochi - Go With The Flow](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;10&#x2F;come-informarsi-bene-sui-videogiochi---go-with-the-flow&#x2F;)
+#### [Git Credential Manager - authentication for everyone](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;07&#x2F;git-credential-manager---authentication-for-everyone&#x2F;)
+#### [4 ways we use GitHub Actions to build GitHub | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;05&#x2F;4-ways-we-use-github-actions-to-build-github--the-github-blog&#x2F;)
+#### [A good idea - Introducing &#x60;tiktok-mf2.tanna.dev&#x60;, for converting TikTok video metadata to Microformats2](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;03&#x2F;a-good-idea---introducing-tiktok-mf2tannadev-for-converting-tiktok-video-metadata-to-microformats2&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
