@@ -36,16 +36,6 @@ Programming Languages    |  ![HTML](https://img.shields.io/badge/HTML-47.1%25-%2
 
 ### Blog Posts
 <!--START_SECTION:feed-->
-#### [Blogumentation - Writing Blog Posts as a Method of Documentation · Jamie Tanna | Software Engineer](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;06&#x2F;blogumentation---writing-blog-posts-as-a-method-of-documentation--jamie-tanna--software-engineer&#x2F;)
-#### [Message and Allert With Django and Boostrap](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;message-and-allert-with-django-and-boostrap&#x2F;)
-#### [NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;28&#x2F;1651132591&#x2F;)
-#### [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;28&#x2F;1651131303&#x2F;)
-#### [spulec&#x2F;freezegun - Let your Python tests travel through time](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;27&#x2F;spulecfreezegun---let-your-python-tests-travel-through-time&#x2F;)
-#### [1650976123](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;26&#x2F;1650976123&#x2F;)
-#### [Django List View With Show More](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-filter-list-view-with-show-more&#x2F;)
-#### [That Dragon Guy su Twitter - &#39;I dun math’d! https - &#x2F;&#x2F;t.co&#x2F;dgPKrCdPEi&#39; &#x2F; Twitter](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;21&#x2F;that-dragon-guy-su-twitter---i-dun-mathd-https---tcodgpkrcdpei--twitter&#x2F;)
-#### [bloomberg&#x2F;memray - Memray is a memory profiler for Python](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;21&#x2F;bloombergmemray---memray-is-a-memory-profiler-for-python&#x2F;)
-#### [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;16&#x2F;1650129282&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Other Stuffs
