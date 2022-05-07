@@ -1,5 +1,5 @@
 ---
-title: "That Dragon Guy su Twitter - 'I dun math’d! https - //t.co/dgPKrCdPEi' / Twitter"
+title: "🔖 That Dragon Guy su Twitter - 'I dun math’d! https - //t.co/dgPKrCdPEi' / Twitter"
 date: '2022-04-21T22:23:19'
 mf-bookmark-of:
  - https://twitter.com/PaintYourDragon/status/1516828810863280130
