@@ -57,5 +57,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 8
           plugin_rss_source: https://fundor333.com/index.xml
