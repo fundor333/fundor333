@@ -38,11 +38,6 @@ jobs:
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
           plugin_anilist_user: fundor333
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
           plugin_fortune: yes
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -71,8 +66,6 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
