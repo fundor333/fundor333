@@ -31,6 +31,7 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_fortune: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -50,8 +51,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: 21npwp4etyuyc4k76srrop6fy
+          plugin_poopmap: yes
+          plugin_poopmap_days: 7
           plugin_rss: yes
           plugin_rss_limit: 8
           plugin_rss_source: https://fundor333.com/index.xml
@@ -59,14 +66,6 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com/@Fundor333
-          plugin_wakatime_user: fundor333
+          plugin_tweets: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: fundor333
