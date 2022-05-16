@@ -3,6 +3,8 @@
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:feed-->
+#### [🔖 Stop Creating UI Components From Scratch | by Francisco Sainz | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;16&#x2F;stop-creating-ui-components-from-scratch--by-francisco-sainz--may-2022--level-up-coding&#x2F;) 
+
 #### [🔖 Learn These Things To Master Python - A Roadmap For Beginners | by Anthony Gibson II | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;09&#x2F;learn-these-things-to-master-python---a-roadmap-for-beginners--by-anthony-gibson-ii--may-2022--level-up-coding&#x2F;) 
 
 #### [🔖 10 Life-Changing Books Every Developer Should Read | by Bernard Bado | Apr, 2022 | JavaScript in Plain English](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;07&#x2F;10-life-changing-books-every-developer-should-read--by-bernard-bado--apr-2022--javascript-in-plain-english&#x2F;) 
@@ -21,6 +23,4 @@ How to use Django messages with Boostrap5
 
 #### [Django List View With Show More](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-filter-list-view-with-show-more&#x2F;) 
 How to have infinite scrolling in Django FilterView
-#### [🔖 That Dragon Guy su Twitter - &#39;I dun math’d! https - &#x2F;&#x2F;t.co&#x2F;dgPKrCdPEi&#39; &#x2F; Twitter](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;21&#x2F;that-dragon-guy-su-twitter---i-dun-mathd-https---tcodgpkrcdpei--twitter&#x2F;) 
-
 <!--END_SECTION:feed-->
