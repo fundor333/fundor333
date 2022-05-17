@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'am a Backend Developer called Fundor333</h1>
+![Header](./github-metrics.png)
+
 
 ![Metrics](/github-metrics.svg)
 
