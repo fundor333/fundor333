@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-
 ![Metrics](/github-metrics.svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
 #### [🔖 Stop Creating UI Components From Scratch | by Francisco Sainz | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;16&#x2F;stop-creating-ui-components-from-scratch--by-francisco-sainz--may-2022--level-up-coding&#x2F;) 
 
