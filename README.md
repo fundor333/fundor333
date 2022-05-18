@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 Deploy django with flyio](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;18&#x2F;deploy-django-with-flyio&#x2F;) 
+
 #### :octocat: [🔖 Stop Creating UI Components From Scratch | by Francisco Sainz | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;16&#x2F;stop-creating-ui-components-from-scratch--by-francisco-sainz--may-2022--level-up-coding&#x2F;) 
 
 #### :octocat: [🔖 Learn These Things To Master Python - A Roadmap For Beginners | by Anthony Gibson II | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;09&#x2F;learn-these-things-to-master-python---a-roadmap-for-beginners--by-anthony-gibson-ii--may-2022--level-up-coding&#x2F;) 
@@ -22,6 +24,4 @@ How to use Django messages with Boostrap5
 
 #### :octocat: [🔁 1650976123](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;26&#x2F;1650976123&#x2F;) 
 
-#### :octocat: [Django List View With Show More](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;django-filter-list-view-with-show-more&#x2F;) 
-How to have infinite scrolling in Django FilterView
 <!--END_SECTION:feed-->
