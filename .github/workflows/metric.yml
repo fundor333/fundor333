@@ -73,4 +73,4 @@ jobs:
           feed-url: https://fundor333.com/index.xml
           readme-section: feed
           max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
+          template: "#### :bookmark: [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
