@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 How to setup continuous deployment on fly.io Django application? - Raja Simon](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;19&#x2F;how-to-setup-continuous-deployment-on-flyio-django-application---raja-simon&#x2F;) 
+
 #### :octocat: [🔖 Deploy django with flyio](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;18&#x2F;deploy-django-with-flyio&#x2F;) 
 
 #### :octocat: [🔖 Stop Creating UI Components From Scratch | by Francisco Sainz | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;16&#x2F;stop-creating-ui-components-from-scratch--by-francisco-sainz--may-2022--level-up-coding&#x2F;) 
@@ -21,7 +23,5 @@ How to use Django messages with Boostrap5
 #### :octocat: [🔁 Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;28&#x2F;1651131303&#x2F;) 
 
 #### :octocat: [🔖 spulec&#x2F;freezegun - Let your Python tests travel through time](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;27&#x2F;spulecfreezegun---let-your-python-tests-travel-through-time&#x2F;) 
-
-#### :octocat: [🔁 1650976123](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;26&#x2F;1650976123&#x2F;) 
 
 <!--END_SECTION:feed-->
