@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 Django Tailwind CSS Tutorial](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;21&#x2F;django-tailwind-css-tutorial&#x2F;) 
+
 #### :octocat: [🔖 Math support in Markdown | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;19&#x2F;math-support-in-markdown--the-github-blog&#x2F;) 
 
 #### :octocat: [🔖 How to setup continuous deployment on fly.io Django application? - Raja Simon](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;19&#x2F;how-to-setup-continuous-deployment-on-flyio-django-application---raja-simon&#x2F;) 
@@ -21,7 +23,5 @@
 #### :octocat: [Message and Allert With Django and Boostrap](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;message-and-allert-with-django-and-boostrap&#x2F;) 
 How to use Django messages with Boostrap5
 #### :octocat: [🔁 NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;28&#x2F;1651132591&#x2F;) 
-
-#### :octocat: [🔁 Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;04&#x2F;28&#x2F;1651131303&#x2F;) 
 
 <!--END_SECTION:feed-->
