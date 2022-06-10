@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 🔭 Building a scalable scraper](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;10&#x2F;building-a-scalable-scraper&#x2F;) 
+
 #### :octocat: [🔖 The Pros and Cons of AWS Lambda Function URLs | by Ben Brazier | Jun, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;08&#x2F;the-pros-and-cons-of-aws-lambda-function-urls--by-ben-brazier--jun-2022--level-up-coding&#x2F;) 
 
 #### :octocat: [🔖 Am I on the IndieWeb Yet? | Miriam Eric Suzanne](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;06&#x2F;am-i-on-the-indieweb-yet--miriam-eric-suzanne&#x2F;) 
@@ -21,7 +23,5 @@
 #### :octocat: [🔖 Stop Creating UI Components From Scratch | by Francisco Sainz | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;16&#x2F;stop-creating-ui-components-from-scratch--by-francisco-sainz--may-2022--level-up-coding&#x2F;) 
 
 #### :octocat: [🔖 Learn These Things To Master Python - A Roadmap For Beginners | by Anthony Gibson II | May, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;09&#x2F;learn-these-things-to-master-python---a-roadmap-for-beginners--by-anthony-gibson-ii--may-2022--level-up-coding&#x2F;) 
-
-#### :octocat: [🔖 10 Life-Changing Books Every Developer Should Read | by Bernard Bado | Apr, 2022 | JavaScript in Plain English](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;07&#x2F;10-life-changing-books-every-developer-should-read--by-bernard-bado--apr-2022--javascript-in-plain-english&#x2F;) 
 
 <!--END_SECTION:feed-->
