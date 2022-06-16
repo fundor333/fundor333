@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
 #### :octocat: [How I implement Indieweb, Webmention and H Entry in My Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;indieweb-webmention-and-h-entry-in-my-blog&#x2F;) 
-How I implement Indieweb, Webmention and H Entry in hugo
+Adding Indieweb and Webmention in my blog
 #### :octocat: [🔖 Lotus58 · peppe.rs](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;14&#x2F;lotus58--peppers&#x2F;) 
 
 #### :octocat: [🔖 🔭 Building a scalable scraper](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;10&#x2F;building-a-scalable-scraper&#x2F;) 
