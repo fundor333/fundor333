@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 Telegram is &#39;not a secure platform,&#39; NATO-backed strategic comms chief warns | Washington Examiner](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;20&#x2F;telegram-is-not-a-secure-platform-nato-backed-strategic-comms-chief-warns--washington-examiner&#x2F;) 
+
 #### :octocat: [🔖 🐿 Golang is not a good language](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;20&#x2F;golang-is-not-a-good-language&#x2F;) 
 
 #### :octocat: [How I implement Indieweb, Webmention and H Entry in My Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;indieweb-webmention-and-h-entry-in-my-blog&#x2F;) 
@@ -21,7 +23,5 @@ Adding Indieweb and Webmention in my blog
 #### :octocat: [🔖 Django Tailwind CSS Tutorial](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;21&#x2F;django-tailwind-css-tutorial&#x2F;) 
 
 #### :octocat: [🔖 Math support in Markdown | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;19&#x2F;math-support-in-markdown--the-github-blog&#x2F;) 
-
-#### :octocat: [🔖 How to setup continuous deployment on fly.io Django application? - Raja Simon](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;05&#x2F;19&#x2F;how-to-setup-continuous-deployment-on-flyio-django-application---raja-simon&#x2F;) 
 
 <!--END_SECTION:feed-->
