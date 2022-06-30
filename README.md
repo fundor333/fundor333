@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 Italian Supervisory Authority denies use of Google Analytics - Complianz Privacy Suite for WordPress](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;30&#x2F;italian-supervisory-authority-denies-use-of-google-analytics---complianz-privacy-suite-for-wordpress&#x2F;) 
+
 #### :octocat: [🔖 Apple Is Not Defending Browser Engine Choice - Infrequently Noted](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;24&#x2F;apple-is-not-defending-browser-engine-choice---infrequently-noted&#x2F;) 
 
 #### :octocat: [🔖 GitHub Copilot is generally available to all developers | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;21&#x2F;github-copilot-is-generally-available-to-all-developers--the-github-blog&#x2F;) 
@@ -21,7 +23,5 @@ Adding Indieweb and Webmention in my blog
 #### :octocat: [🔖 🔭 Building a scalable scraper](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;10&#x2F;building-a-scalable-scraper&#x2F;) 
 
 #### :octocat: [🔖 The Pros and Cons of AWS Lambda Function URLs | by Ben Brazier | Jun, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;08&#x2F;the-pros-and-cons-of-aws-lambda-function-urls--by-ben-brazier--jun-2022--level-up-coding&#x2F;) 
-
-#### :octocat: [🔖 Am I on the IndieWeb Yet? | Miriam Eric Suzanne](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;06&#x2F;am-i-on-the-indieweb-yet--miriam-eric-suzanne&#x2F;) 
 
 <!--END_SECTION:feed-->
