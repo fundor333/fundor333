@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 7 Amazing GitHub Repositories Every Developer Should Follow - DEV Community 👩‍💻👨‍💻](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;06&#x2F;7-amazing-github-repositories-every-developer-should-follow---dev-community&#x2F;) 
+
 #### :octocat: [🔖 Give Up GitHub - Software Freedom Conservancy](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;06&#x2F;give-up-github---software-freedom-conservancy&#x2F;) 
 
 #### :octocat: [🔖 Italian Supervisory Authority denies use of Google Analytics - Complianz Privacy Suite for WordPress](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;30&#x2F;italian-supervisory-authority-denies-use-of-google-analytics---complianz-privacy-suite-for-wordpress&#x2F;) 
@@ -21,7 +23,5 @@
 #### :octocat: [How I implement Indieweb, Webmention and H Entry in My Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;indieweb-webmention-and-h-entry-in-my-blog&#x2F;) 
 Adding Indieweb and Webmention in my blog
 #### :octocat: [🔖 Lotus58 · peppe.rs](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;14&#x2F;lotus58--peppers&#x2F;) 
-
-#### :octocat: [🔖 🔭 Building a scalable scraper](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;10&#x2F;building-a-scalable-scraper&#x2F;) 
 
 <!--END_SECTION:feed-->
