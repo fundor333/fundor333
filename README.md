@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔖 Auto setup remote branch and never again see an error about the missing upstream | pawelgrzybek.com](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;17&#x2F;auto-setup-remote-branch-and-never-again-see-an-error-about-the-missing-upstream--pawelgrzybekcom&#x2F;) 
+
 #### :octocat: [🔖 Research - How GitHub Copilot helps improve developer productivity | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;15&#x2F;research---how-github-copilot-helps-improve-developer-productivity--the-github-blog&#x2F;) 
 
 #### :octocat: [🔖 7 Amazing GitHub Repositories Every Developer Should Follow - DEV Community 👩‍💻👨‍💻](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;06&#x2F;7-amazing-github-repositories-every-developer-should-follow---dev-community&#x2F;) 
@@ -22,6 +24,4 @@
 
 #### :octocat: [🔖 🐿 Golang is not a good language](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;20&#x2F;golang-is-not-a-good-language&#x2F;) 
 
-#### :octocat: [How I implement Indieweb, Webmention and H Entry in My Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;post&#x2F;2022&#x2F;indieweb-webmention-and-h-entry-in-my-blog&#x2F;) 
-Adding Indieweb and Webmention in my blog
 <!--END_SECTION:feed-->
