@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [❤ 1659481490](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;02&#x2F;1659481490&#x2F;) 
+
 #### :octocat: [🔁 1659474325](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;02&#x2F;1659474325&#x2F;) 
 
 #### :octocat: [💬 Christian : &#39;@fundor333@mastodon.social Yeah, unfortunately th&#39; - Fosstodon](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;02&#x2F;1659473076&#x2F;) 
@@ -21,7 +23,5 @@
 #### :octocat: [🔖 Italian Supervisory Authority denies use of Google Analytics - Complianz Privacy Suite for WordPress](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;30&#x2F;italian-supervisory-authority-denies-use-of-google-analytics---complianz-privacy-suite-for-wordpress&#x2F;) 
 
 #### :octocat: [🔖 Apple Is Not Defending Browser Engine Choice - Infrequently Noted](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;24&#x2F;apple-is-not-defending-browser-engine-choice---infrequently-noted&#x2F;) 
-
-#### :octocat: [🔖 GitHub Copilot is generally available to all developers | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;21&#x2F;github-copilot-is-generally-available-to-all-developers--the-github-blog&#x2F;) 
 
 <!--END_SECTION:feed-->
