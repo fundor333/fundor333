@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4137&lines=Some+of+my+posts)](https://git.io/typing-svg)
 <!--START_SECTION:feed-->
+#### :octocat: [🔁 1659474325](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;02&#x2F;1659474325&#x2F;) 
+
+#### :octocat: [💬 Christian : &#39;@fundor333@mastodon.social Yeah, unfortunately th&#39; - Fosstodon](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;02&#x2F;1659473076&#x2F;) 
+
 #### :octocat: [🔖 Docker Multistage Builds for Hugo](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;08&#x2F;01&#x2F;docker-multistage-builds-for-hugo&#x2F;) 
 
 #### :octocat: [🔖 Auto setup remote branch and never again see an error about the missing upstream | pawelgrzybek.com](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;07&#x2F;17&#x2F;auto-setup-remote-branch-and-never-again-see-an-error-about-the-missing-upstream--pawelgrzybekcom&#x2F;) 
@@ -19,9 +23,5 @@
 #### :octocat: [🔖 Apple Is Not Defending Browser Engine Choice - Infrequently Noted](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;24&#x2F;apple-is-not-defending-browser-engine-choice---infrequently-noted&#x2F;) 
 
 #### :octocat: [🔖 GitHub Copilot is generally available to all developers | The GitHub Blog](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;21&#x2F;github-copilot-is-generally-available-to-all-developers--the-github-blog&#x2F;) 
-
-#### :octocat: [🔖 Let’s Get Granular. Why Granularity Influences Role-Based… | by Monica Miller | Jun, 2022 | Level Up Coding](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;20&#x2F;lets-get-granular-why-granularity-influences-role-based--by-monica-miller--jun-2022--level-up-coding&#x2F;) 
-
-#### :octocat: [🔖 Telegram is &#39;not a secure platform,&#39; NATO-backed strategic comms chief warns | Washington Examiner](https:&#x2F;&#x2F;fundor333.com&#x2F;social&#x2F;2022&#x2F;06&#x2F;20&#x2F;telegram-is-not-a-secure-platform-nato-backed-strategic-comms-chief-warns--washington-examiner&#x2F;) 
 
 <!--END_SECTION:feed-->
