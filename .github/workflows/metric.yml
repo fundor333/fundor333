@@ -57,23 +57,3 @@ jobs:
           config_padding: 5%
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
-
-  feed:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update README.md
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name github-actions[bot]
-          git config user.email github@fundor333.com
-          git pull
-          git add .
-          git commit -m "Update README"
-          git push
-          fi
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://fundor333.com/index.xml
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### :octocat: [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
