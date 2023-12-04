@@ -24,7 +24,7 @@ jobs:
           # Options
           user: fundor333
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Europe/Rome
           plugin_achievements: yes
           plugin_achievements_display: compact
