@@ -1305,7 +1305,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="336.7633333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="336.8666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1327,10 +1327,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">4259</div>
+                                        <div class="value">4260</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 4259 times</div>
+                                <div class="text">Repositories have been deployed 4260 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2024,7 +2024,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2024, 03:28:36 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2024, 04:16:02 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
