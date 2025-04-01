@@ -32,10 +32,8 @@ jobs:
           plugin_achievements_threshold: C
           plugin_anilist: yes
           plugin_anilist_limit: 10
-          plugin_anilist_limit_characters: 0
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: reading, watching, characters
-          plugin_anilist_shuffle: yes
+          plugin_anilist_limit_characters: 66
+          plugin_anilist_sections:  characters
           plugin_anilist_user: fundor333
           plugin_habits: no
           plugin_habits_charts_type: chartist
