@@ -2,7 +2,4 @@
 
 ![Metrics](/github-metrics.svg)
 
-I also write on <a rel="nofollow me" class="Link--primary" href="https://digitaltearoom.com/">https://digitaltearoom.com/</a>
-
-<!-- feed start -->
-<!-- feed end -->
+I  write on <a rel="nofollow me" class="Link--primary" href="https://digitaltearoom.com/">https://digitaltearoom.com/</a>, <a rel="nofollow me" class="Link--primary" href="https://newsletter.digitaltearoom.com/">https://newsletter.digitaltearoom.com/</a> and <a rel="nofollow me" class="Link--primary" href="https://fundor333.com/">https://fundor333.com/</a>
