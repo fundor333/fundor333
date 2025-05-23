@@ -47,5 +47,15 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 5%
           config_padding: 5%
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: "README.md"
+          format: "- ${day} ${monthlong} - [${title}](${url})"
+          timezone: "Europe/Rome"
+          url: |
+            https://fundor333.com/index.xml
+            https://digitaltearoom.com/feed/
+            https://newsletter.digitaltearoom.com/rss/
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
