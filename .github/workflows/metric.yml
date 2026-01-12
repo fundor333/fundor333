@@ -26,7 +26,7 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Europe/Rome
-          plugin_anilist: yes
+          plugin_anilist: no
           plugin_anilist_limit_characters: 66
           plugin_anilist_user: fundor333
           plugin_habits: no
